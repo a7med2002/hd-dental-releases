@@ -4,20 +4,20 @@
     <title>HD Dental Clinic</title>
 
     <item>
-      <title>Version 2.0.4</title>
+      <title>Version 2.0.5</title>
       <pubDate>Tue, 08 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.0.4/app-release.apk"
-        sparkle:version="2.0.4"
+        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.0.5/app-release.apk"
+        sparkle:version="2.0.5"
         sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 2.0.4</title>
+      <title>Version 2.0.5</title>
       <pubDate>Tue, 08 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.0.4/dental_clinic_setup.exe"
-        sparkle:version="2.0.4"
+        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.0.5/dental_clinic_setup.exe"
+        sparkle:version="2.0.5"
         sparkle:os="windows" />
     </item>
 
