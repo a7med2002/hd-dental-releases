@@ -4,23 +4,21 @@
     <title>HD Dental Clinic</title>
 
     <item>
-      <title>Version 2.1.0</title>
+      <title>Version 2.0.9</title>
       <pubDate>Tue, 08 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.1.0/app-release.apk"
-        sparkle:version="2.1.0"
-        sparkle:os="android"
-        sha256="2C2EA05C8A301C2AC77582A8694B6227EA763B4A35E0B705E61595C7AE13DF15" />
+        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.0.9/app-release.apk"
+        sparkle:version="2.0.9"
+        sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 2.1.0</title>
+      <title>Version 2.0.9</title>
       <pubDate>Tue, 08 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.1.0/dental_clinic_setup.exe"
-        sparkle:version="2.1.0"
-        sparkle:os="windows"
-        sha256="8F6CE5E8ED02F9983D0B6F37224E7343C138AB5430588FFC5A200C402A2391B6" />
+        url="https://github.com/a7med2002/hd-dental-releases/releases/download/v2.0.9/dental_clinic_setup.exe"
+        sparkle:version="2.0.9"
+        sparkle:os="windows" />
     </item>
 
   </channel>
